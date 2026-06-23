@@ -1890,9 +1890,13 @@
       "title": "روز تکریم مادران و همسران شهدا",
       "calendar": "Hijri", "rule": "simple" },
     { "holiday": false, "month": 6, "day": 20, "type": "Iran",
-      "title": "روز مادر، ولادت حضرت فاطمهٔ زهرا (س) (سال هشتم قبل از هجرت) و روز زن",
+      "title": "ولادت حضرت فاطمهٔ زهرا (س) (سال هشتم قبل از هجرت) و روز زن",
       "calendar": "Hijri", "rule": "simple",
-      "metadata": { "alwaysDisplayed": true } },
+      "metadata": {
+        "alwaysDisplayed": true,
+        "alias": "روز مادر"
+      }
+    },
     { "holiday": false, "month": 6, "day": 20, "type": "Iran",
       "title": "تولد حضرت امام خمینی (ره) رهبر کبیر انقلاب اسلامی (۱۳۲۰ ه‍.ق)",
       "calendar": "Hijri", "rule": "simple" },
