@@ -465,7 +465,7 @@
     { "holiday": false, "month": 3, "day": 1, "type": "Iran", "title": "مسمومیت امام عسکری علیه‌السلام", "calendar": "Hijri", "rule": "simple" },
     { "holiday": false, "month": 3, "day": 3, "type": "Iran", "title": "تخریب کعبه توسط یزید", "calendar": "Hijri", "rule": "simple" },
     { "holiday": false, "month": 3, "day": 5, "type": "Iran", "title": "وفات حضرت سکینه سلام‌الله‌علیها", "calendar": "Hijri", "rule": "simple" },
-    { "holiday": false, "month": 3, "day": 8, "type": "Iran", "title": "شهادت امام عسکری علیه‌السلام", "calendar": "Hijri", "rule": "simple" },
+    { "holiday": true, "month": 3, "day": 8, "type": "Iran", "title": "شهادت امام عسکری علیه‌السلام", "calendar": "Hijri", "rule": "simple" },
     { "holiday": false, "month": 3, "day": 9, "type": "Iran", "title": "آغاز امامت حضرت ولی‌عصر علیه‌السلام", "calendar": "Hijri", "rule": "simple" },
     { "holiday": false, "month": 3, "day": 9, "type": "Iran", "title": "قتل عمر بن خطاب", "calendar": "Hijri", "rule": "simple" },
     { "holiday": false, "month": 3, "day": 9, "type": "Iran", "title": "قتل عمر بن سعد", "calendar": "Hijri", "rule": "simple" },
